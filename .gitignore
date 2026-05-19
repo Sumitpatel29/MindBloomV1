@@ -8,6 +8,6 @@ backend/*.pyc
 backend/*.pyo
 
 backend/*.db
-backend/.env
+backend/env
 backend/.DS_Store
 backend/Thumbs.db
